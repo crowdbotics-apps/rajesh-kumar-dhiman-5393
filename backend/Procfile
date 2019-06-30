@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT rajesh_kumar_dhiman_5393.wsgi:application
